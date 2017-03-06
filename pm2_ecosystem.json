@@ -1,0 +1,10 @@
+{
+  "apps" : [
+    {
+      "name": "nf-ebot-api",
+      "script": "app/server.js",
+      "watch": true,
+      "max_memory_restart": "200M"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "globals": {
+    "module": true,
+    "require": true,
+    "console": true,
+    "Buffer": true,
+    "process": true,
+    "setInterval": true
+  },
+  "esversion":6,
+  "moz": true
+}

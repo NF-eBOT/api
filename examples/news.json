@@ -1,0 +1,10 @@
+{
+  "title": "Nota Técnica 2006.001",
+  "link": "exibirArquivo.aspx?conteudo=PD9OPnv3lTo=",
+
+  "scraper": {
+    "name": "NF-e / Notas Técnicas",
+    "page_url": "http://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=tW+YMyk/50s=",
+    "base_url": "http://www.nfe.fazenda.gov.br"
+  }
+}

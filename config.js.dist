@@ -1,0 +1,32 @@
+(function () {
+    "use strict";
+
+    module.exports = {
+
+        name: 'nf-ebot-api',
+        domain: '',
+        development: true,
+
+        loaderio_token: '',
+
+        databases: {
+            mongodb: 'mongodb://USER:PASS@HOST:PORT/DB_NAME'
+        },
+
+        letsencrypt:{
+            email: '',
+            agreeTos: true,
+            debug: true,
+            domains: [''],
+            forceSSL: false,
+            redirectCode: 301,
+            ports: {
+                http: 8080,
+                https: 8443
+            },
+            restify: true
+        }
+
+    };
+
+})();

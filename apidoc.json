@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "",
+  "header": {
+    "title": "About",
+    "filename": "README.md"
+  },
+  "template": {
+    "withCompare": false
+  }
+}
