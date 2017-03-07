@@ -1,5 +1,5 @@
 # NF-eBOT REST API
-Builded with NodeJS/Restify/MongoDB, this API is part of NF-eBOT services, provide all data to applications.
+Builded with NodeJS/Express/Restify/MongoDB, this API is part of NF-eBOT services, provide all data to applications.
 
 <br>
 
